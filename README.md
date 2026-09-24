@@ -81,6 +81,6 @@ Gerçek operasyon sorunlarını anlayan, sürdürülebilir kod üreten ve ekip �
 
 Web uygulamaları, back-end sistemleri ve işletme otomasyonu projeleri için benimle LinkedIn üzerinden iletişime geçebilirsiniz.
 
-![Profile views](https://komarev.com/ghpvc/?username=mehmetardadogan&color=0A66C2&style=flat-square&label=Profil+Görüntülenme)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilimi%20Görüntüle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/)
 
 </div>

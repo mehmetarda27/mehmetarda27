@@ -1,14 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0A66C2,50:2563EB,100:06B6D4&text=Mehmet%20Arda%20Doğan&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Full-Stack%20Yazılım%20Geliştirici%20•%20Web%20%26%20Back-End&descAlignY=58&animation=fadeIn" alt="Mehmet Arda Doğan" />
+<img width="100%" src="./assets/header.svg" alt="Mehmet Arda Doğan — Full-Stack Yazılım Geliştirici" />
+
+<br>
 
 **Saha operasyonlarını sade, güvenilir ve ölçeklenebilir dijital ürünlere dönüştürüyorum.**
 
 [![Portfolio](https://img.shields.io/badge/PORTFÖY-ardashop.site-111827?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://ardashop.site)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Bağlantı%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/)
-[![Location](https://img.shields.io/badge/MERSİN-TÜRKİYE-0F172A?style=for-the-badge&logo=googlemaps&logoColor=22D3EE)](#)
 
 </div>
+
+<br>
 
 ## 👋 Hakkımda
 
@@ -47,43 +50,42 @@ Mersin merkezli bir yazılım geliştirici ve **Bilgisayar Programcılığı ö�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,js,html,css,postgres,redis,docker,linux,nginx,git,github,postman&perline=7" alt="Teknolojiler" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,html,css,postgres,redis,docker,linux,nginx,git,github,postman&perline=7" alt="Node.js, Express, JavaScript, HTML, CSS, PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub ve Postman" />
 
 </div>
 
+<br>
+
 | Alan | Yetkinlikler |
 |:--|:--|
-| **Back-End** | Node.js, Express.js, REST API, Authentication, Webhooks |
-| **Veri** | PostgreSQL, SQLite, Redis |
-| **Front-End** | HTML5, CSS3, JavaScript, Responsive Design |
-| **DevOps & Araçlar** | Git, GitHub, Docker, Linux, Nginx, Postman |
-| **Ürün Alanları** | Sipariş yönetimi, kurye operasyonları, işletme otomasyonu |
+| **Back-End** | Node.js · Express.js · REST API · Authentication · Webhooks |
+| **Veri** | PostgreSQL · SQLite · Redis |
+| **Front-End** | HTML5 · CSS3 · JavaScript · Responsive Design |
+| **DevOps & Araçlar** | Git · GitHub · Docker · Linux · Nginx · Postman |
+| **Ürün Alanları** | Sipariş yönetimi · Kurye operasyonları · İşletme otomasyonu |
 
 <br>
 
 ## 🎓 Eğitim
 
-<table>
-<tr>
-<td>💻</td>
-<td><strong>Bilgisayar Programcılığı</strong><br><sub>Ön lisans · Devam ediyor · 2025–</sub></td>
-</tr>
-<tr>
-<td>🏥</td>
-<td><strong>Tıbbi Dokümantasyon ve Sekreterlik</strong><br><sub>Anadolu Üniversitesi Açıköğretim Fakültesi · Devam ediyor · 2025–</sub></td>
-</tr>
-</table>
+### 💻 <span lang="tr">Bilgisayar Programcılığı</span>
+**Ön lisans · Devam ediyor · 2025–**
+
+### 🏥 <span lang="tr">Tıbbi Dokümantasyon ve Sekreterlik</span>
+**Anadolu Üniversitesi Açıköğretim Fakültesi · Devam ediyor · 2025–**
 
 <br>
 
-<div align="center">
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:2563EB,100:0A66C2" alt="" />
+<div align="center">
 
 ### Bir fikri ürüne dönüştürelim
 
 Web uygulamaları, back-end sistemleri ve işletme otomasyonu projeleri için bağlantı kurabilirsiniz.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilimi%20Görüntüle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/)
+
+<sub>Mehmet Arda Doğan · Mersin, Türkiye</sub>
 
 </div>

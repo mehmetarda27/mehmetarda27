@@ -6,8 +6,9 @@
 
 **Saha operasyonlarını sade, güvenilir ve ölçeklenebilir dijital ürünlere dönüştürüyorum.**
 
-[![Portfolio](https://img.shields.io/badge/PORTFÖY-ardashop.site-111827?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://ardashop.site)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Bağlantı%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/)
+<br>
+
+<a href="https://ardashop.site"><img width="300" src="./assets/portfolio-button.svg" alt="Portföyü Görüntüle" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/"><img width="300" src="./assets/linkedin-button.svg" alt="LinkedIn Profiline Git" /></a>
 
 </div>
 

@@ -2,86 +2,85 @@
 
 # Mehmet Arda Doğan
 
-**Full-Stack Yazılım Geliştirici · Web & Back-End**
+### Full-Stack Yazılım Geliştirici · Web & Back-End
 
-Saha deneyimini, günlük operasyonları kolaylaştıran yazılımlara dönüştürüyorum.
+Saha operasyonlarını sade, güvenilir ve ölçeklenebilir dijital ürünlere dönüştürüyorum.
 
-[Portföy](https://ardashop.site) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/) &nbsp; · &nbsp; [Projeler](https://github.com/mehmetardadogan?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portföy-ardashop.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ardashop.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet%20Arda%20Doğan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/)
 
 </div>
 
 ---
 
-### Hakkımda
+## Hakkımda
 
-Mersin merkezli bir yazılım geliştirici ve **Bilgisayar Programcılığı öğrencisiyim**. Node.js, Express, ilişkisel veritabanları ve API entegrasyonları üzerine çalışıyorum. Kurye, sipariş ve işletme operasyonlarındaki saha deneyimimi yazılımın iş kurallarına taşıyorum.
+Mersin merkezli bir yazılım geliştirici ve Bilgisayar Programcılığı öğrencisiyim. Node.js, Express, ilişkisel veritabanları, REST API'ler ve işletme süreçlerinin dijitalleştirilmesi üzerine çalışıyorum.
 
-**Mehmet Arda Studio** kapsamında kurumsal web siteleri, SEO ve işletmeye özel yazılımlarda ihtiyaç analizi, geliştirme, yayına alma, sunucu yönetimi ve teknik destek süreçlerini yürüttüm. Web ve back-end alanında profesyonel bir ekiple gerçek ürünlere katkı sağlamayı hedefliyorum.
+**Mehmet Arda Studio** çatısı altında kurumsal web siteleri ve işletmeye özel yazılımlar geliştiriyor; ihtiyaç analizi, arayüz, back-end, yayına alma, sunucu yönetimi ve teknik destek süreçlerini uçtan uca yürütüyorum.
 
-### Öne çıkan çalışmalar
+Gerçek operasyon sorunlarını anlayan, sürdürülebilir kod üreten ve ekip çalışmasına açık bir geliştirici olarak profesyonel ürün ekiplerine katkı sağlamayı hedefliyorum.
+
+## Öne Çıkan Çalışmalar
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>01 · Delivera Express</h3>
-<p><strong>Çok restoranlı kurye & sipariş yönetimi</strong></p>
-<p>Restoran, yönetici ve kurye panellerini ortak sipariş ve ödeme yaşam döngüsünde birleştiren sistem.</p>
+<h3>Delivera Express</h3>
+<p><strong>Kurye ve sipariş operasyon platformu</strong></p>
+<p>Restoran, yönetici ve kurye süreçlerini tek merkezde yöneten; saha operasyonlarını hızlandırmaya odaklanan özel ürün çalışması.</p>
 <ul>
-<li>Durum, aktif iş, bölge ve mesafeye göre otomatik kurye atama</li>
-<li>REST API ve webhook entegrasyonları</li>
-<li>Tenant izolasyonu, token yönetimi ve mükerrer işlem koruması</li>
-<li>Kuyruk yönetimi, web push, otomatik testler ve Android istemcisi</li>
+<li>Rol bazlı yönetim deneyimleri</li>
+<li>Sipariş ve kurye operasyonlarının dijitalleştirilmesi</li>
+<li>Güvenilir API ve entegrasyon süreçleri</li>
+<li>Web ve mobil kullanım senaryoları</li>
 </ul>
-<p><code>Node.js</code> <code>Express</code> <code>PostgreSQL / SQLite</code> <code>Redis</code> <code>BullMQ</code> <code>Capacitor</code></p>
-<a href="https://github.com/mehmetardadogan/paketdelivera"><strong>Projeyi incele →</strong></a>
+<p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Redis</code> <code>Mobile</code></p>
+<p>🔒 Kaynak kodu ve teknik ayrıntıları özeldir.</p>
 </td>
 <td width="50%" valign="top">
-<h3>02 · Mehmet Arda Web Tasarım</h3>
-<p><strong>Ajans & portföy arayüzü</strong></p>
-<p>Web tasarım çalışmalarını ve projeleri sergilemek için geliştirdiğim ön yüz projesi.</p>
+<h3>Ardashop</h3>
+<p><strong>Web tasarım ve dijital çözümler vitrini</strong></p>
+<p>Hizmetleri ve seçili çalışmaları anlaşılır, hızlı ve mobil uyumlu bir deneyimle sunan kurumsal web projesi.</p>
 <ul>
-<li>Mobil uyumlu gezinme ve proje vitrini</li>
-<li>Açık/koyu tema ve etkileşimli arayüzler</li>
-<li>GSAP animasyonları ve proje detayları</li>
-<li>SEO meta verileri, Open Graph ve yapılandırılmış veri</li>
+<li>Mobil uyumlu modern arayüz</li>
+<li>Hız ve kullanılabilirlik odaklı yapı</li>
+<li>SEO uyumlu içerik düzeni</li>
+<li>Canlı yayın ve bakım süreçleri</li>
 </ul>
-<p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>GSAP</code></p>
-<a href="https://github.com/mehmetardadogan/ardashop"><strong>Projeyi incele →</strong></a>
+<p><a href="https://ardashop.site"><strong>Canlı siteyi görüntüle →</strong></a></p>
 </td>
 </tr>
 </table>
 
-### Teknoloji araç kutum
+## Teknik Yetkinlikler
 
-| Alan | Teknolojiler |
-| :--- | :--- |
-| **Back-end & entegrasyon** | Node.js, Express, REST API, Webhook, C#, ASP.NET, PHP |
-| **Veri & kuyruklar** | PostgreSQL, SQLite, MySQL, SQL, Redis, BullMQ |
-| **Front-end & mobil** | JavaScript, HTML5, CSS3, Flutter, Capacitor, PWA |
-| **Geliştirme & kalite** | Git, Visual Studio, Node Test, smoke testleri, migration |
+**Back-End:** Node.js · Express.js · REST API · Authentication · Webhooks  
+**Veri:** PostgreSQL · SQLite · Redis  
+**Front-End:** HTML5 · CSS3 · JavaScript · Responsive Design  
+**Araçlar:** Git · GitHub · Docker · Linux · Nginx · Postman  
+**Çalışma Alanları:** Sipariş yönetimi · Kurye operasyonları · İşletme otomasyonu · Teknik destek
 
-### Eğitim
+## Eğitim
 
-- **Yozgat Bozok Üniversitesi** — Bilgisayar Programcılığı · 2025–devam ediyor
-- **Anadolu Üniversitesi, Açıköğretim** — Tıbbi Dokümantasyon ve Sekreterlik · 2025–devam ediyor
+- **Bilgisayar Programcılığı** — Ön lisans, devam ediyor · 2025–
+- **Tıbbi Dokümantasyon ve Sekreterlik** — Anadolu Üniversitesi Açıköğretim Fakültesi, devam ediyor · 2025–
 
-Türkçe ana dilim. İngilizce teknik doküman okuyarak araştırma yapıyorum.
+## Çalışma Prensibim
 
-<details>
-<summary><strong>English · About me</strong></summary>
-<br>
-
-I'm a full-stack developer and Computer Programming student based in Mersin, Türkiye. I focus on Node.js, Express, relational databases and API integrations, drawing on hands-on experience in courier and restaurant operations.
-
-My work includes a multi-restaurant delivery management system and business websites. I'm looking to deepen my web and back-end skills and contribute to real products within a professional team.
-
-</details>
+- İş ihtiyacını anlamadan kod yazmam.
+- Güvenlik, sürdürülebilirlik ve kullanıcı deneyimini birlikte ele alırım.
+- Ürünü geliştirmeden yayına ve teknik desteğe kadar sahiplenirim.
+- Öğrenmeye ve ölçülebilir biçimde iyileştirmeye devam ederim.
 
 ---
 
 <div align="center">
 
-**Birlikte çalışmak için**  
-[LinkedIn üzerinden iletişime geç](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/) · [Portföyümü ziyaret et](https://ardashop.site)
+### Birlikte çalışalım
+
+Web uygulamaları, back-end sistemleri ve işletme otomasyonu projeleri için benimle LinkedIn üzerinden iletişime geçebilirsiniz.
+
+![Profile views](https://komarev.com/ghpvc/?username=mehmetardadogan&color=0A66C2&style=flat-square&label=Profil+Görüntülenme)
 
 </div>

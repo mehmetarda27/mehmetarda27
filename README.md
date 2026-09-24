@@ -6,7 +6,7 @@
 
 Saha deneyimini, günlük operasyonları kolaylaştıran yazılımlara dönüştürüyorum.
 
-[Portföy](https://ardashop.site) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/) &nbsp; · &nbsp; [Projeler](https://github.com/mehmetarda27?tab=repositories)
+[Portföy](https://ardashop.site) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/) &nbsp; · &nbsp; [Projeler](https://github.com/mehmetardadogan?tab=repositories)
 
 </div>
 
@@ -33,7 +33,7 @@ Mersin merkezli bir yazılım geliştirici ve **Bilgisayar Programcılığı ö�
 <li>Kuyruk yönetimi, web push, otomatik testler ve Android istemcisi</li>
 </ul>
 <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL / SQLite</code> <code>Redis</code> <code>BullMQ</code> <code>Capacitor</code></p>
-<a href="https://github.com/mehmetarda27/paketdelivera"><strong>Projeyi incele →</strong></a>
+<a href="https://github.com/mehmetardadogan/paketdelivera"><strong>Projeyi incele →</strong></a>
 </td>
 <td width="50%" valign="top">
 <h3>02 · Mehmet Arda Web Tasarım</h3>
@@ -46,7 +46,7 @@ Mersin merkezli bir yazılım geliştirici ve **Bilgisayar Programcılığı ö�
 <li>SEO meta verileri, Open Graph ve yapılandırılmış veri</li>
 </ul>
 <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>GSAP</code></p>
-<a href="https://github.com/mehmetarda27/ardashop"><strong>Projeyi incele →</strong></a>
+<a href="https://github.com/mehmetardadogan/ardashop"><strong>Projeyi incele →</strong></a>
 </td>
 </tr>
 </table>
@@ -80,6 +80,8 @@ My work includes a multi-restaurant delivery management system and business webs
 ---
 
 <div align="center">
-<strong>Birlikte çalışmak için</strong><br>
-<a href="https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/">LinkedIn üzerinden iletişime geç</a> · <a href="https://ardashop.site">Portföyümü ziyaret et</a>
+
+**Birlikte çalışmak için**  
+[LinkedIn üzerinden iletişime geç](https://www.linkedin.com/in/mehmet-arda-do%C4%9Fan-0a438743a/) · [Portföyümü ziyaret et](https://ardashop.site)
+
 </div>
